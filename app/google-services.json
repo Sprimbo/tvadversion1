@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565123109684",
+    "project_id": "tvad-4f225"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565123109684:android:3ad858132a3adf69",
+        "android_client_info": {
+          "package_name": "com.tvad.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565123109684-f80lv5slgb23dj4u8pu99iln4qhh0qsm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "565123109684-l735dsdd5sjecfldii1runvo4frhs2do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tvad.android",
+            "certificate_hash": "460a190683c9f3bcf51da3d3043c8788eea8bc14"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDURE9ZT3WL35UFZnIw_7oyxRLDf1VLThM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

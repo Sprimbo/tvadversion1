@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tvad.android"
+    android:versionCode="13"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="14" />
+
+    <supports-screens android:smallScreens="true" />
+    <supports-screens android:largeScreens="true" />
+
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+
+    <application
+        android:largeHeap="true"
+        android:name="com.tvad.android.OverlayApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <activity
+            android:name="com.tvad.android.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleInstance"
+            android:theme="@style/Theme.Transparent" >
+
+        </activity>
+        <activity
+            android:name="com.tvad.android.ConfigActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.tvad.android.AlarmReceiver"/>
+        
+        <receiver android:name="com.tvad.android.BootReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+        
+        <receiver android:name="com.tvad.android.OutgoingReceiver" android:enabled="true">
+			<intent-filter>
+				<action android:name="com.tvad.overlay.action.OVERLAY"></action>
+			</intent-filter>
+		</receiver>
+		<receiver android:name="com.tvad.android.IncomingReceiver" android:enabled="true">
+			<intent-filter>
+				<action android:name="com.tvad.overlay.action.OVERLAY_QUERY"></action>
+			</intent-filter>
+		</receiver>
+    </application>
+
+</manifest>

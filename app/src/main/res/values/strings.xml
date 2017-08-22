@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tvad.</string>
+    <string name="app_name_caps">TVAD</string>
+    <string name="type_select">Effect</string>
+    <string name="type_1">Oglas</string>
+    <string name="timing_select">Schedule</string>
+    <string name="timing_1">Every 3 minutes</string>
+    <string name="timing_2">Every 30 minutes</string>
+    <string name="timing_3">Every hour</string>
+    <string name="duration_select">Duration</string>
+    <string name="duration_1">15 sec</string>
+    <string name="duration_2">30 sec</string>
+    <string name="duration_3">45 sec</string>
+    <string name="duration_4">1 min</string>
+    <string name="toggle_turn_on">ON</string>
+    <string name="toggle_turn_off">OFF</string>
+
+</resources>

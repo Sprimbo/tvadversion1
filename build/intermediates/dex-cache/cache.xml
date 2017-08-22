@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-0031ad7537ec0e5dfeb3d19ff3eb118df2faec2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-6298c6bcc31201b759af34b612a12eca0929b093.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\libs\libGoogleAnalyticsV2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d04da1c73876c93ccce8ffd39add84f9415b64c">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\libGoogleAnalyticsV2-3f804133d87665eb53e8e8e9b407e55ce4703ea9.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\libs\libGoogleAnalyticsV2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d04da1c73876c93ccce8ffd39add84f9415b64c">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\libGoogleAnalyticsV2-508224c942ff864342ed131c7bb1cafe849a446a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-206756e7dc24ac73168df36e9761c8c24917e232.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-abf92143c23ed5e50b06c9d975bff02814faf4c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-1e3e2e52c26f4d47b7d849d462f54530040ed366.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-ed245266ddd6e27c065a824d53803d6ad60220cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-0d2f09230eb9eda4e0ebb0ca88cce73c55023c77.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-7eaf04726ead64417e1094272209cb46c027c2e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-15e1b622308bf384541cd25e441333e4e1add516.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.sromku\simple-storage\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0470f9a12eaa264d9998d4df37505d92c043e8d1">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-3fc45c98d2fd276b2d61263af164c69132158097.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-a6de5c278d415cac9a9a007f042e365685037134.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-40bf4f3bcfcf32db408cf1f58edfd4c11bbbfeff.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\libs\libGoogleAnalyticsV2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d04da1c73876c93ccce8ffd39add84f9415b64c">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\libGoogleAnalyticsV2-38a843872aa5fcf6c4df0f1d6747145cc0ddb2b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-04000e526a27c2634606ec6ec34fc65667b60678.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-e358d7967fcdb017cac59d58a36c12da12174f3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-29823678243894a946663b439075e3a3e5accea3.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-a119e73c860c21d8e94905548327341cbaeea4fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-75537f8a1377ac3d0ff3439161970278521571f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.sromku\simple-storage\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0470f9a12eaa264d9998d4df37505d92c043e8d1">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-38d2e7354478cc7f0c6dda23547515e92ebd1a6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-bba97806ebe22b65f2b156a1d7d919f97ea89189.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-c43d1efd3a2d3ac009486b963af5c60bae775bd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-eaf85f74f9aad269cc3759dcd55ef713b081077d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-ac5d749e5adcb7da70e1e6dec1d3b48643d918d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-da27149e1d421885931cc485b12c3279fdf4e25e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-00d8c0d0df65512c2c14a19f09a584e060567913.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-4bb5df9c1a711064de79ad7e1c2e87f465603040.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-9fcca4507c8839ea2ecc8b6e5b7203e4edb0a819.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-4991501a3936ecca358fb323d459e9e6e31d499a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-27a89caaf5818468e0005618a4032a255748303e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-4b68c25405098db82cdea30f6ee1ea6e8f25360a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-c8047b564bcfc0714fad7923392f1764b585b2d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-4573f3db37d9a5bd27f47ecf72ab75e14c6c88ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-858cde8648e6b8a6f1c36e1f1899630283d60739.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-328d048aef519341c9e919e9a3a4a0fccc8a2d3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-06a95dbcf48eec2520a16777baf0b52d16f21b80.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-89a64c05ae8e401331d0e016d213b9dc7bf16e80.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.sromku\simple-storage\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0470f9a12eaa264d9998d4df37505d92c043e8d1">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-89bfc9b2109228c4a112467662ae868103cc3c95.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-8aa9130b5a09c0e32d492ce2e26370ad0ac4a833.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-79e431608e7b8143bc7687a511597a8fa96ac138.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-dddcc9407a0da81448d0943ab2a606eec61e59cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy - Copy\Tvad\app\build\intermediates\pre-dexed\release\classes-307491e2b7efa4712228cd36fecdb141da125200.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-dc57c82e2b0cc6075f42cc7e0453dd0d38c6494b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\sprim\Desktop\tvad - Copy\Tvad\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-f720869fa704e4bc7d42b0594d3fe5aa7ff26141.jar" />
+    </item>
+    <item
+        jar="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\sprim\Desktop\tvad\Tvad\app\build\intermediates\pre-dexed\release\classes-9d071868e9e66514ad055a15638ebb9daa5b7592.jar" />
+    </item>
+
+</items>
